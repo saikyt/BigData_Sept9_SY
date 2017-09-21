@@ -1,0 +1,11 @@
+172.31.40.99 edgenode
+172.31.34.106 master
+172.31.46.25 datanode1
+172.31.35.141 datanode2
+
+
+
+172.31.21.22 edgenode
+172.31.30.206 master
+172.31.16.180 datanode1
+172.31.20.228 datanode2
